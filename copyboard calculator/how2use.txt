@@ -1,0 +1,9 @@
+这个程序的功能是
+cp文件中的路径应该是calculator.py的路径 才能正常运行
+如@py.exe C:\Users\Administrator\Desktop\pycode\py-tool\copyboard calculator\calculator.py %*
+@pause 
+PS：%*不能省略这个代表接收传入的符号 如+
+这个路径就是我电脑上的路径 你可以自己配置
+完成后将 cp文件放入 C盘windows
+例如利用 运行 win+R 输入CP +（可以是其他符号如avg求平均）即可自动计算粘贴板中的字符串中的数字的全部和。
+后续会继续升级可计算的内容 敬请期待
